@@ -1,0 +1,14 @@
+{
+    "123@gmail.com": {
+        "Plan ID": "34",
+        "Speed": "200mbps'",
+        "Price": "900",
+        "Duration": "4months",
+        "Status": "Active"
+    },
+    "s4@gmail.com": {
+        "Speed": "100mbps",
+        "Price": "800",
+        "Duration": "3month"
+    }
+}

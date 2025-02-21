@@ -1,0 +1,30 @@
+{
+    "123@gmail.com": [
+        {
+            "amount": 657.0,
+            "status": "Paid"
+        },
+        {
+            "amount": 2.0,
+            "status": "Pending"
+        }
+    ],
+    "rafil@gmail.com": [
+        {
+            "amount": 6000.0,
+            "status": "Paid"
+        }
+    ],
+    "s4@gmail.com": [
+        {
+            "amount": 900.0,
+            "status": "Paid",
+            "method": "2"
+        },
+        {
+            "amount": 900.0,
+            "status": "Paid",
+            "method": "1"
+        }
+    ]
+}

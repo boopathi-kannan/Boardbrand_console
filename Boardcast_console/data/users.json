@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Boopathi",
+        "email": "123@gmail.com",
+        "password": "123",
+        "contact": "843949",
+        "billing_address": "82829"
+    },
+    {
+        "name": "Rafil",
+        "email": "rafil@gmail.com",
+        "password": "246",
+        "contact": "938499484",
+        "billing_address": "namme area"
+    },
+    {
+        "name": "Kathir",
+        "email": "kathir@gmail.com",
+        "password": "245",
+        "contact": "0943994349",
+        "billing_address": "Chavadi"
+    },
+    {
+        "name": "& C:/Users/Bhupathi/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Bhupathi/OneDrive/Desktop/Boardcast_console/Boardcast_console/main.py",
+        "email": "& C:/Users/Bhupathi/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Bhupathi/OneDrive/Desktop/Boardcast_console/Boardcast_console/main.py",
+        "password": "& C:/Users/Bhupathi/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Bhupathi/OneDrive/Desktop/Boardcast_console/Boardcast_console/main.py",
+        "contact": "& C:/Users/Bhupathi/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Bhupathi/OneDrive/Desktop/Boardcast_console/Boardcast_console/main.py",
+        "billing_address": "& C:/Users/Bhupathi/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Bhupathi/OneDrive/Desktop/Boardcast_console/Boardcast_console/main.py"
+    },
+    {
+        "name": "123@gmail.com",
+        "email": "",
+        "password": "",
+        "contact": "",
+        "billing_address": ""
+    },
+    {
+        "name": "123@gmail.com",
+        "email": "123",
+        "password": "",
+        "contact": "",
+        "billing_address": ""
+    },
+    {
+        "name": "s4",
+        "email": "s4@gmail.com",
+        "password": "234",
+        "contact": "2993",
+        "billing_address": "jkfjd"
+    },
+    {
+        "name": "k",
+        "email": "k@gmail.com",
+        "password": "90",
+        "contact": "98899009",
+        "billing_address": "jfdjiof"
+    },
+    {
+        "name": "j",
+        "email": "j@gmail.com",
+        "password": "80",
+        "contact": "988789879",
+        "billing_address": "fhdh"
+    }
+]

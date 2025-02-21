@@ -1,0 +1,12 @@
+{
+    "23": {
+        "Speed": "100mbps",
+        "Price": "800",
+        "Duration": "3month"
+    },
+    "34": {
+        "Speed": "200mbps'",
+        "Price": "900",
+        "Duration": "4months"
+    }
+}
